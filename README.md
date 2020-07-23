@@ -6,11 +6,11 @@ Surface plasmons are coherent delocalized electron oscillations that exist at th
 
 In general, a material cannot polarize instantaneously in response to an applied field. The polarization is a convolution of the electric field at previous times with time-dependent susceptibility. As opposed to the response of a vacuum, the response of normal materials to external fields generally depends on the frequency of the field.
 
-This repository contains a [MATLAB code](https://github.com/MatteoOrlandini/plasma_frequency_and_permittivity/blob/master/plasma_frequency_and_permittivity.m) used to calculate plasma frequency, plot the relation ω(β) and plot how permittivity changes as a function of frequency. 
+This repository contains a [MATLAB code](https://github.com/MatteoOrlandini/Plasma-frequency-and-permittivity/blob/master/Plasma-frequency-and-permittivity.m) used to calculate plasma frequency, plot the relation ω(β) and plot how permittivity changes as a function of frequency. 
 
 # MATLAB Application
 
-The code "plasma_frequency_and_permittivity.m" displays three plots as shown below. These charts are 
+The code "Plasma-frequency-and-permittivity.m" displays three plots as shown below. These charts are 
 * Dispersion relation for a plasma propagating in air and dispersion relation for a surface plasmon propagating in a metal (copper)
 * Electronic contribution to permittivity
 * Dipolar contribution to permittivity
@@ -21,16 +21,16 @@ The parameters used to plot these charts are the characteristic value of copper:
 | 1.72*10^-8  | 8.47*10^28       | 1                              | 1              |
 
 *Dispersion relation*
-![](https://github.com/MatteoOrlandini/plasma_frequency_and_permittivity/blob/master/Dispersion%20relation.png)
+![](https://github.com/MatteoOrlandini/Plasma-frequency-and-permittivity/blob/master/Dispersion%20relation.png)
 
 *Electronic contribution to permittivity*
-![](https://github.com/MatteoOrlandini/plasma_frequency_and_permittivity/blob/master/Electronic%20contibution%20to%20permittivity.png)
+![](https://github.com/MatteoOrlandini/Plasma-frequency-and-permittivity/blob/master/Electronic%20contibution%20to%20permittivity.png)
 
 *Dipolar contribution to permittivity*
-![](https://github.com/MatteoOrlandini/plasma_frequency_and_permittivity/blob/master/Dipolar%20contibution%20to%20permittivity.png)
+![](https://github.com/MatteoOrlandini/Plasma-frequency-and-permittivity/blob/master/Dipolar%20contibution%20to%20permittivity.png)
 
 # MATLAB Graphic Application
-You can download the installer for the standalone application (without Matlab) [here](https://github.com/MatteoOrlandini/plasma_frequency_and_permittivity/blob/master/app/for_redistribution/) using "MyAppInstaller_web.exe". 
+You can download the installer for the standalone application (without Matlab) [here](https://github.com/MatteoOrlandini/Plasma-frequency-and-permittivity/blob/master/app/for_redistribution/) using "MyAppInstaller_web.exe". 
 
 ## How to intall
 1. Open "MyAppInstaller_web.exe"
@@ -39,13 +39,13 @@ You can download the installer for the standalone application (without Matlab) [
 4. Run the app
 
 ## The GUI
-Using the [MATLAB GUI](https://github.com/MatteoOrlandini/plasma_frequency_and_permittivity/blob/master/plasma_frequency_and_permittivity_app.mlapp) the user can set the resistivity, the electron density, the relative permittivity of the first medium and the effective mass as shown in the figure below.
+Using the [MATLAB GUI](https://github.com/MatteoOrlandini/Plasma-frequency-and-permittivity/blob/master/Plasma-frequency-and-permittivity_app.mlapp) the user can set the resistivity, the electron density, the relative permittivity of the first medium and the effective mass as shown in the figure below.
 
 *Dispersion relation*
-![](https://github.com/MatteoOrlandini/plasma_frequency_and_permittivity/blob/master/Dispersion%20relation%20app.png)
+![](https://github.com/MatteoOrlandini/Plasma-frequency-and-permittivity/blob/master/Dispersion%20relation%20app.png)
 
 *Eletronic contribution to permittivity*
-![](https://github.com/MatteoOrlandini/plasma_frequency_and_permittivity/blob/master/Electronic%20contibution%20to%20permittivity%20app.png)
+![](https://github.com/MatteoOrlandini/Plasma-frequency-and-permittivity/blob/master/Electronic%20contibution%20to%20permittivity%20app.png)
 
 *Dipolar contribution to permittivity*
-![](https://github.com/MatteoOrlandini/plasma_frequency_and_permittivity/blob/master/Dipolar%20contibution%20to%20permittivity%20app.png)
+![](https://github.com/MatteoOrlandini/Plasma-frequency-and-permittivity/blob/master/Dipolar%20contibution%20to%20permittivity%20app.png)
